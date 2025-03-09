@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623121151325",
+    "project_id": "daily-budget-app-46d56",
+    "storage_bucket": "daily-budget-app-46d56.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623121151325:android:5370408eeb70a37912a4b4",
+        "android_client_info": {
+          "package_name": "com.dailybudgetapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3s2KXFtIlWTqjx-i---YBzKDI-Mq7jKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
